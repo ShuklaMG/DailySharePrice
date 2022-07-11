@@ -1,0 +1,4 @@
+com\cts\dailyshareprice\model\StockTest.class
+com\cts\dailyshareprice\controller\StockControllerTest.class
+com\cts\dailyshareprice\service\StockServiceTest.class
+com\cts\dailyshareprice\DailySharePriceApplicationTests.class
